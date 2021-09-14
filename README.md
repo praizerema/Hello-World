@@ -1,60 +1,45 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello World
 
-> One paragraph statement about the project.
-![screenshot](./app_screenshot.png)
+> My first project at Microverse 
+> ![screenshot](./app_screenshot.png)
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML and CSS
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
+
+- Open your terminal or command line 
+- Clone the project using:
+
+```
+$ git clone https://github.com/praizerema/Hello-World.git
+```
 
 ### Prerequisites
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- A text editor or and IDE
+- Git installed
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/praizerema)
-- Twitter: [@twitterhandle](https://twitter.com/ayodelepraisego)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/praizerema)
-
-
+- GitHub: [@praizerema](https://github.com/praizerema)
+- Twitter: [@ayodelepraisego](https://twitter.com/ayodelepraisego)
+- LinkedIn: [Ayodele PraiseGod](https://www.linkedin.com/in/praizerema)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/praizerema/Hello-World/issues).
 
 ## Show your support
 
@@ -66,4 +51,3 @@ Give a ⭐️ if you like this project!
 - Inspiration
 - etc
 
-## 📝 License
