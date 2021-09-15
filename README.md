@@ -1,7 +1,5 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello World
-
 > My first project at Microverse 
 > ![screenshot](./app_screenshot.png)
 
